@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: chatbi-backend
+  datasource:
+    url: ${DB_URL:jdbc:mysql://localhost:3306/beijing_trip?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true}
+    username: ${DB_USERNAME:root}
+    password: ${DB_PASSWORD:root}
+    driver-class-name: ${DB_DRIVER:com.mysql.cj.jdbc.Driver}
+  ai:
+    dashscope:
+      api-key: sk-78e1f8b5660647f1ae9d2aa00312d718

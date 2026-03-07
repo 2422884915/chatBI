@@ -1,0 +1,13 @@
+D:\work\boda\project\kefu\chatBI\src\main\java\com\chatbi\backend\ChatBiApplication.java
+D:\work\boda\project\kefu\chatBI\src\main\java\com\chatbi\backend\service\WeeklyReportTemplateService.java
+D:\work\boda\project\kefu\chatBI\src\main\java\com\chatbi\backend\agent\ChatBiAgent.java
+D:\work\boda\project\kefu\chatBI\src\main\java\com\chatbi\backend\agent\DataQueryAgent.java
+D:\work\boda\project\kefu\chatBI\src\main\java\com\chatbi\backend\agent\ReportAgent.java
+D:\work\boda\project\kefu\chatBI\src\main\java\com\chatbi\backend\model\ChatRequest.java
+D:\work\boda\project\kefu\chatBI\src\main\java\com\chatbi\backend\workflow\ChatBiGraphConfiguration.java
+D:\work\boda\project\kefu\chatBI\src\main\java\com\chatbi\backend\tool\SchemaTool.java
+D:\work\boda\project\kefu\chatBI\src\main\java\com\chatbi\backend\agent\ChartAgent.java
+D:\work\boda\project\kefu\chatBI\src\main\java\com\chatbi\backend\model\ChatResponse.java
+D:\work\boda\project\kefu\chatBI\src\main\java\com\chatbi\backend\tool\SqlExecutorTool.java
+D:\work\boda\project\kefu\chatBI\src\main\java\com\chatbi\backend\agent\DataPredictionAgent.java
+D:\work\boda\project\kefu\chatBI\src\main\java\com\chatbi\backend\controller\ChatController.java
